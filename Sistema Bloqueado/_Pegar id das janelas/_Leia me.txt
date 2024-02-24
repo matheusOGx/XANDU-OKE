@@ -1,0 +1,9 @@
+
+
+- Pegue a ID da janela usando o "Pega Id das janelas.exe" seguindo o tutorial da foto "Como pegar a ID.jpg"  
+
+- coloque os dados que pegou em Title no arquivo "Sobrepor janelas.ini" que está dentro da pasta inis
+
+- Cada linha é a ID da janela de um programa para sobrepor as outras
+
+- Feche o arquivo para salvar as alterações
